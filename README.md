@@ -93,16 +93,26 @@ Unidad 4. Valorización de la empresa.
                                                                                 |            Taller
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                      Cuarta sesión                                             |       Valorización del emprendimiento con base de herramientas con estrategias financieras                                                                                     |        Resolución de encuestas para el concepto del emprendimiento lasallista 
+                      Cuarta sesión                                             |       Valorización del emprendimiento con base de herramientas con estrategias financieras                                                                                     |       Resolución de encuestas para el concepto del emprendimiento lasallista 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Bases de datos: 
 
 La biblioteca de la Universidad de La Salle provee acceso a bases de datos de libros electrónicos, legislación y normas, publicaciones institucionales (tesis de grado, revistas y libros) y revistas científicas de todo el mundo (EBSCO, Proquest, Scopus, ScienceDirect). 
-• Red de Revistas Científicas de América Latina y El Caribe, España y Portugal. - http://www.redalyc.com
-• Scientific Electronic Library Online - http://www.scielo.org.co  
-• Proquest - http://search.proquest.com
-• Scopus - http://www.scopus.com
-• ScienceDirect - www.sciencedirect.com
+
+• Red de Revistas Científicas de América Latina y El Caribe, España y Portugal. 
+- http://www.redalyc.com
+
+• Scientific Electronic Library Online 
+- http://www.scielo.org.co  
+
+• Proquest 
+- http://search.proquest.com
+
+• Scopus 
+- http://www.scopus.com
+
+• ScienceDirect 
+- www.sciencedirect.com
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
