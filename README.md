@@ -35,9 +35,10 @@ Dada la importancia que toma la planeación financiera a partir de establecer ob
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nombre del Correspondiente   |   Jenny Carolina Llanos Murillo  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-En este espacio académico busca introducir a los estudiantes en el mundo del emprendimiento en perspectiva lasallista, al incitarlos al potencial de estrategias financieras, gestiona los criterios de calidad, realiza investigación con pertinencia e impacto social, proyectado socialmente con el objetivo de promover el desarrollo de emprendimientos en el Laboratorio FinTrade en trasformaciones en el proceso de diseño y formulación de un plan financiero con aplicación al negocio, con soluciones éticas y socialmente viables que soporten en la construcción y búsqueda de un sentido de nación, relacionado con la igualdad y respeto con el resto del mundo. 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+En este espacio académico busca introducir a los estudiantes en el mundo del emprendimiento en perspectiva lasallista, al incitarlos al potencial de estrategias financieras, gestiona los criterios de calidad, realiza investigación con pertinencia e impacto social, proyectado socialmente con el objetivo de promover el desarrollo de emprendimientos en el Laboratorio FinTrade en trasformaciones en el proceso de diseño y formulación de un plan financiero con aplicación al negocio, con soluciones éticas y socialmente viables que soporten en la construcción y búsqueda de un sentido de nación, relacionado con la igualdad y respeto con el resto del mundo. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
