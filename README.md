@@ -96,34 +96,61 @@ Unidad 4. Valorización de la empresa.
                       Cuarta sesión                                             |       Valorización del emprendimiento con base de herramientas con estrategias financieras                                                                                     |       Resolución de encuestas para el concepto del emprendimiento lasallista 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 REFERENCIAS BIBLIOGRÁFICAS
+
 Bafico, H. (1991). Términos, cláusulas y condiciones para la incorporación de capital de riesgo. Sciences-New York, 1–3.
+
 Duque, D. F. M., & Díaz, H. H. T. (2009). Análisis de decisiones de inversión utilizando el criterio valor presente neto en riesgo (VPN en riesgo). Revista Facultad de Ingenieria, 49, 199–213.
+
 Espinosa, F. R. (2013). Variables financieras determinantes del fracaso empresarial para la pequeña y mediana empresa en Colombia: análisis bajo modelo Logit. Pensamiento & Gestión, 6276(34), 235–277.
+
 Estrategia, N. (2008). Grandes Diferencias Entre Pequeñas y Medianas Empresas. Estrategia El Diario de Negocios In.
+
 Ferreira Herrera, D. C. (2016). El modelo CANVAS en la formulación de proyectos. Cooperativismo & Desarrollo, 23(107). https://doi.org/10.16925/co.v23i107.1252
+
 Flórez Uribe, J. A. (2015). Plan de negocios para pequeñas empresas  (Ediciones de la U). Ediciones de la U. http://ezproxy.biblored.gov.co:2057/stage.aspx?il=5588&pg=&ed=
+
 Gitman, L. (2007). Principios de administración financiera (M. P. Guerrero Rosas & D. Clinton (Eds.); Guerrero). Pearson Educacion de México, S.A de C.V. http://ezproxy.biblored.gov.co:2057/stage.aspx?il=3596&pg=&ed=
-Gómez-Bezares, F., Madariaga, J., & Santibáñez, J. (2004). Modelos integrados de análisis financiero mediante ratios (F. Gómez-Bezares, J. Madariaga, & J. Santibáñez (Eds.)). Ediciones Deusto - Planeta de Agostini Profesional y Formación S.L. https://elibro-net.hemeroteca.lasalle.edu.co/es/ereader/lasalle/14879
+
+Gómez-Bezares, F., Madariaga, J., & Santibáñez, J. (2004). Modelos integrados de análisis financiero mediante ratios (F. Gómez-Bezares, J. Madariaga, & J. Santibáñez (Eds.)).
+
+Ediciones Deusto - Planeta de Agostini Profesional y Formación S.L. https://elibro-net.hemeroteca.lasalle.edu.co/es/ereader/lasalle/14879
+
 Guzmán, C. A. (2006). Ratios financieros y matemáticas de la mercadotecnia . https://elibro-net.hemeroteca.lasalle.edu.co/es/ereader/lasalle/51520
-Harvey, M., Kiessling, T., & Moeller, M. (2010). A view of entrepreneurship and innovation from the economist “for all seasons” - Joseph S. Schumpeter. Journal of Management History, 16(4), 527–531. https://doi.org/10.1108/17511341011074004
+
+Harvey, M., Kiessling, T., & Moeller, M. (2010). A view of entrepreneurship and innovation from the economist “for all seasons” - Joseph S. Schumpeter. Journal of Management
+History, 16(4), 527–531. https://doi.org/10.1108/17511341011074004
+
 Hilpisch, Y. (2015). Python for finance analyze big financial data. In M. Brian & M. Blanchette (Eds.), The FEBS journal (1st ed., Vol. 281, Issue 16). O’reilly Media, Inc. http://www.ncbi.nlm.nih.gov/pubmed/25139866%5Cnhttp://books.google.com/books?hl=en&lr=&id=OH9vAwAAQBAJ&oi=fnd&pg=PT15&dq=Python+for+Finance&ots=oqDUOB4rHS&sig=w4HUJ1kH7B5INOEKn3DVB-aSd6Y
+
 Julio, L., López, C., Albert, D., Dosher, D. M., Benepe, O., & Stewart, R. (1970). Análisis de matriz DOFA.
+
 Kilby, P. (1971). Entrepreneurship and economic development (P. Kilby (Ed.); Collier-Ma). Collier - Macmillan Ltd.
+
 Lederman, D., Messina, J., Pienknagura, S., & Rogolini, J. (2014). El emprendimiento en América Latina muchas empresas y poca innovación. Banco Mundial.
+
 López, J. (2010). Planificación y gestión pública : formulaciones, exploraciones y experimentaciones desde la teoría y el método (U. Cendes (Ed.); 1st ed.). CLACSO. http://biblioteca.clacso.edu.ar/Venezuela/cendes-ucv/20161228044145/pdf_1411.pdf
+
 Martínez, C., & Bañón, A. (2020). Emprendimiento en épocas de crisis: Un análisis exploratorio de los efectos de la COVID-19. Small Business International Review, 4, 53–66.
 Ministerio de Comerio, Industria y Turismo. (2019). República de Colombia.
+
 Monge Gonzalez, R. (2016). La fuerza de la innovación y el emprendimiento. In D. Gregosz (Ed.), La Fuerza de la Innovación y el Emprendimiento ¿Es probable que Latinoamérica se suba al carro de las sociedades del conocimiento? Konrad-Adenauer-Stiftung e.V. https://www.researchgate.net/profile/Ricardo_Monge-Gonzalez3/publication/316981934_Innovacion_y_emprendimiento_en_Costa_Rica_Desafios_y_oportunidades_para_sumarse_a_la_sociedad_del_conocimiento_pp_119-140/links/591b899da6fdcc701fd17c86/Innovacion-y-empren
+
 Moreno Martinez, O. H. (1995). Tecnica computacional aplicada a la planeación financiera. Universidad Autonoma de Nuevo Leon.
+
 Moscoso Escobar, J., & Botero Botero, S. (2013). Métodos de valoración de nuevos emprendimientos. Semestre Económico, 16(33), 237–263. https://doi.org/10.22395/seec.v16n33a9
+
 Palacio Giraldo, A. L., & Nuñez, M. A. (2020). Strategic risk management in some large Colombian private companies. In AD-minister (Issue 36).
+
 Pedraja - Rejas, L., Rodríguez - Ponce, E., & Rodríguez -Ponce, J. (2008). Importancia de los estilos de liderazgo sobre la eficiencia: un estudio comparativo entre grandes y pequeñas y medianas empresas privadas . Revista de Ciencias Sociales (RCS) , 14. https://elibro-net.hemeroteca.lasalle.edu.co/es/ereader/lasalle/17267?page=4
+
 Porter, M. (2008). ¿Qué es estrategia? Harvard Business Review América Latina, 20.
+
 Puentes Gonzáles, G. (2013). El presupuesto en el marco de la planeación financiera. Universidad del Rosario. https://ezproxy.biblored.gov.co:2152/visor/46561
+
 Vázquez Parra, J. C. (2018). Elementos para la valoración integral de proyectos de emprendimiento social. Una herramienta para la formación de emprendedores. Contabilidad y Negocios, 13(26), 129–140. https://doi.org/10.18800/contabilidad.201802.008
  
 
-Bases de datos: 
+###Bases de datos: 
 
 La biblioteca de la Universidad de La Salle provee acceso a bases de datos de libros electrónicos, legislación y normas, publicaciones institucionales (tesis de grado, revistas y libros) y revistas científicas de todo el mundo (EBSCO, Proquest, Scopus, ScienceDirect). 
 
