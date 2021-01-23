@@ -150,7 +150,7 @@ Puentes Gonzáles, G. (2013). El presupuesto en el marco de la planeación finan
 Vázquez Parra, J. C. (2018). Elementos para la valoración integral de proyectos de emprendimiento social. Una herramienta para la formación de emprendedores. Contabilidad y Negocios, 13(26), 129–140. https://doi.org/10.18800/contabilidad.201802.008
  
 
-###Bases de datos: 
+**Bases de datos: 
 
 La biblioteca de la Universidad de La Salle provee acceso a bases de datos de libros electrónicos, legislación y normas, publicaciones institucionales (tesis de grado, revistas y libros) y revistas científicas de todo el mundo (EBSCO, Proquest, Scopus, ScienceDirect). 
 
