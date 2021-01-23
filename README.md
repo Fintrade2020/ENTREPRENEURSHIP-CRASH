@@ -95,7 +95,8 @@ Unidad 4. Valorización de la empresa.
 
                       Cuarta sesión                                             |       Valorización del emprendimiento con base de herramientas con estrategias financieras                                                                                     |       Resolución de encuestas para el concepto del emprendimiento lasallista 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-REFERENCIAS BIBLIOGRÁFICAS
+
+**REFERENCIAS BIBLIOGRÁFICAS**
 
 Bafico, H. (1991). Términos, cláusulas y condiciones para la incorporación de capital de riesgo. Sciences-New York, 1–3.
 
