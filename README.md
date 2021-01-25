@@ -70,9 +70,9 @@ Unidad 3. Planeación financiera
 3.	Planeación financiera 
 3.1.	Condiciones del capital riesgo 
 
-Unidad 4. Valorización de la empresa. 
+Unidad 4. Valoración de la empresa. 
 
-1.	Método de Valorización de la Empresa 
+1.	Método de Valoración de la Empresa 
 1.1.	Herramienta simulador-financiera 
 2.	Encuestas
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
