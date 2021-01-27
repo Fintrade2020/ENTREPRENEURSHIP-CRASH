@@ -56,12 +56,16 @@ Unidad 1. Conceptos básicos
 2.1.	Matriz DOFA
 2.2.	 Generalidades de planeación financiera 
 
+vídeo 1: https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/Ebv0-p7kXmNHoYvIz_LEzkMBkYFKA_rslS4tUyT-rCA0kA?e=EVQWrd
+
 Unidad 2. Estados financieros 
 
 1.	Presupuesto 
 2.	Balance general 
 3.	Cuenta de resultados 
 4.	Estados de Flujo 
+
+vídeo 2: https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/ERrYX2VmCMZEiFAk4lBZ49oBzB0Cs9sWFrzNt0belOa5gA?e=Es8Bcc
 
 Unidad 3. Planeación financiera 
 
