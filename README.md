@@ -74,6 +74,8 @@ Unidad 3. Planeación financiera
 3.	Planeación financiera 
 3.1.	Condiciones del capital riesgo 
 
+vídeo 3: https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/EX9Fm_G3Fp5Hrtpc3J2rGCABv9Mh3gFW68TJxpIVf8uKsw?e=Xce2E7
+
 Unidad 4. Valoración de la empresa. 
 
 1.	Método de Valoración de la Empresa 
