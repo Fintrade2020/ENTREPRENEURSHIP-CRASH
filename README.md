@@ -81,6 +81,11 @@ Unidad 4. Valoración de la empresa.
 1.	Método de Valoración de la Empresa 
 1.1.	Herramienta simulador-financiera 
 2.	Encuestas
+
+vídeo 4: https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/ET72pZkXQnhOpRLx9w145W0BHoi7fkw7JZsDJAEhoick4g?e=gF9JtH
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
                                   CRITERIOS                                     |                      Estrategias e instrumentos 
