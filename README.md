@@ -59,6 +59,7 @@ Unidad 1. Conceptos básicos
 [***Si quieres ver la primera clase da clic acá***](https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/Ebv0-p7kXmNHoYvIz_LEzkMBkYFKA_rslS4tUyT-rCA0kA?e=EVQWrd)
 
 
+
 Unidad 2. Estados financieros 
 
 1.	Presupuesto 
@@ -69,7 +70,7 @@ Unidad 2. Estados financieros
 [***Para ver la segunda clase da clic acá***](https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/ERrYX2VmCMZEiFAk4lBZ49oBzB0Cs9sWFrzNt0belOa5gA?e=Es8Bcc)
 
 
-vídeo 2: https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/ERrYX2VmCMZEiFAk4lBZ49oBzB0Cs9sWFrzNt0belOa5gA?e=Es8Bcc
+
 
 Unidad 3. Planeación financiera 
 
@@ -78,9 +79,9 @@ Unidad 3. Planeación financiera
 3.	Planeación financiera 
 3.1.	Condiciones del capital riesgo 
 
-[***Para ver la cuarta clase da clic acá***](https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/EX9Fm_G3Fp5Hrtpc3J2rGCABv9Mh3gFW68TJxpIVf8uKsw?e=Xce2E7)
+[***Para ver la tercera clase da clic acá***](https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/EX9Fm_G3Fp5Hrtpc3J2rGCABv9Mh3gFW68TJxpIVf8uKsw?e=Xce2E7)
 
-vídeo 3: https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/EX9Fm_G3Fp5Hrtpc3J2rGCABv9Mh3gFW68TJxpIVf8uKsw?e=Xce2E7
+
 
 Unidad 4. Valoración de la empresa. 
 
@@ -90,7 +91,8 @@ Unidad 4. Valoración de la empresa.
 
 [***Para ver la cuarta clase da clic acá***](https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/ET72pZkXQnhOpRLx9w145W0BHoi7fkw7JZsDJAEhoick4g?e=gF9JtH)
 
-vídeo 4: https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/ET72pZkXQnhOpRLx9w145W0BHoi7fkw7JZsDJAEhoick4g?e=gF9JtH
+
+
 
 | Sesión | Estrategias e instrumentos |
 | --- | --- |
