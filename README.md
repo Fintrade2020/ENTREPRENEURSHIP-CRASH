@@ -84,28 +84,14 @@ Unidad 4. Valoración de la empresa.
 
 vídeo 4: https://unisalleedu-my.sharepoint.com/:v:/g/personal/jllanos07_unisalle_edu_co/ET72pZkXQnhOpRLx9w145W0BHoi7fkw7JZsDJAEhoick4g?e=gF9JtH
 
+| Sesión | Estrategias e instrumentos |
+| --- | --- |
+| Primera sesión | Conocimiento de la empresa y Taller |
+| Segunda sesión | Revisión histórica de datos de la empresa y Taller |
+| Tercera sesión | Presentación de estrategias financieras para el emprendimiento y Taller |
+| Cuarta sesión | Valorización del emprendimiento con base de herramientas con estrategias financieras|
+| Cuarta sesión | Resolución de encuestas para el concepto del emprendimiento lasallista |
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                  CRITERIOS                                     |                      Estrategias e instrumentos 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                       Primera sesión                                           |       Conocimiento de la empresa 
-                                                                                |            Taller 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                      Segunda sesión                                            |       Revisión historica de datos de la empresa 
-                                                                                |            Taller 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   
-                      Tercera sesión                                            |       Presentación de estrategias financieras pera el emprendimiento
-                                                                                |            Taller
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                      Cuarta sesión                                             |       Valorización del emprendimiento con base de herramientas con estrategias financieras                                                                                     |       Resolución de encuestas para el concepto del emprendimiento lasallista 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **REFERENCIAS BIBLIOGRÁFICAS**
 
